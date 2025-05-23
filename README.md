@@ -1,6 +1,6 @@
 # 🚀 Luis Sergio Pastrana Lemus  
 
-![Header](https://github.com/LuisPastranaLemus/LuisPastranaLemus/issues/1#issue-3087664133) <!-- Aquí puedes cambiar la imagen de encabezado -->
+![Header]([https://github.com/LuisPastranaLemus/LuisPastranaLemus/issues/1#issue-3087664133](https://github.com/LuisPastranaLemus/LuisPastranaLemus/blob/main/Header.jpg)) <!-- Aquí puedes cambiar la imagen de encabezado -->
 
 ## 👋 ¡Hello!  
 
