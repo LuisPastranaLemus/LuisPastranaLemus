@@ -16,7 +16,7 @@ Today, I'm shifting gears into the world of **data science**, where I combine te
 
 ---
 
-## 🌱 Aprendiendo ahora mismo  
+## 🌱 Learning right now 
 - **Advanced Python** for data workflows
 - **Machine learning** `sklearn`, `XGBoost`, and beyond
 - **Cloud** tools for data `AWS`, `GCP` – still exploring
