@@ -55,7 +55,6 @@ Also, I’m a strong believer that if it’s repetitive, it *should* be automate
 ---
 
 ### 🎯 Extras  
-Si quieres agregar más interactividad, podrías usar **GitHub Stats**, como este:  
 
 ---
 ![Luis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisPastranaLemus&show_icons=true&theme=dark)
