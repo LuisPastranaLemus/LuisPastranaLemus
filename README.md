@@ -23,7 +23,6 @@ Today, I'm shifting gears into the world of **data science**, where I combine te
 - **OS** `Linux`, `VMware Virtualization` - Deepening my understanding
 - **Business inteligence tools** `Power Bi`, `Tableau`, exploring
 - **Version control and Best Practices** `Git` & `Github` - collaborative workflows
-- 
 
 ---
 
