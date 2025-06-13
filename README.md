@@ -16,10 +16,14 @@ Today, I'm shifting gears into the world of **data science**, where I combine te
 
 ---
 
-## 🌱 Learning right now 
+## 🧠 Learning right now 
 - **Advanced Python** for data workflows
-- **Machine learning** `sklearn`, `XGBoost`, and beyond
-- **Cloud** tools for data `AWS`, `GCP` – still exploring
+- **Data analysis** `Pandas`, `Numpy`, `Matplotlib`, `Seaborn` and beyond
+- **Data bases** tools for data `SQL`, `Oracle` – still exploring
+- **OS** `Linux`, `VMware Virtualization` - Deepening my understanding
+- **Business inteligence tools** `Power Bi`, `Tableau`, exploring
+- **Version control and Best Practices** `Git` & `Github` - collaborative workflows
+- 
 
 ---
 
@@ -34,7 +38,7 @@ Today, I'm shifting gears into the world of **data science**, where I combine te
 ## 💬 Ask me about
 - **Network infrastructure and IP transport** (my old love)
 - How to go from **telecom to data**
-- Automating stuff to save time and brainpowe
+- Automating stuff to save time and brainpower
 
 ---
 
