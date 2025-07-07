@@ -26,7 +26,7 @@ Today, I'm shifting gears into the world of **data science**, where I combine te
 
 ---
 
-## 👯 I'm open to collaborate on
+## ⚙️ I'm open to collaborate on
 
 - Data-driven projects with real-world impact
 - Automating business processes
