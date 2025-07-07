@@ -1,6 +1,6 @@
 # 🧾 Profile
 
-![Header](https://github.com/LuisPastranaLemus/LuisPastranaLemus/blob/main/Header.jpg) <!-- Aquí puedes cambiar la imagen de encabezado -->
+![Header](https://github.com/LuisPastranaLemus/LuisPastranaLemus/blob/main/Header.png) <!-- Aquí puedes cambiar la imagen de encabezado -->
 
 ## 👋 ¡Hello!  
 
