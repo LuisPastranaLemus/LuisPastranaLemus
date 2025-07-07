@@ -18,7 +18,7 @@ Today, I'm shifting gears into the world of **data science**, where I combine te
 
 ## 🧠 Learning right now 
 - **Advanced Python** for data workflows
-- **Data analysis** `Pandas`, `Numpy`, `Matplotlib`, `Seaborn` and beyond
+- **Data analysis** `Pandas`, `Numpy`, `Matplotlib`, `Seaborn`, `StreamLit` and beyond
 - **Data bases** tools for data `SQL`, `Oracle` – still exploring
 - **OS** `Linux`, `VMware Virtualization` - Deepening my understanding
 - **Business inteligence tools** `Power Bi`, `Tableau`, exploring
