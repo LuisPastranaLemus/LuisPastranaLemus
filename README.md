@@ -43,7 +43,7 @@ Today, I'm shifting gears into the world of **data science**, where I combine te
 
 ## 📫 How to reach me
 
-- [![Mail.com](https://img.shields.io/badge/-Mail.com-blue?style=flat-square&logo=minutemailer)](mailto:luis.pastrana.lemus@engineer.com)  Email: luispastranalemus@gmail.com
+- [![Mail.com](https://img.shields.io/badge/-Mail.com-blue?style=flat-square&logo=minutemailer)](mailto:luis.pastrana.lemus@engineer.com)  Email: luispastranalemus@engineer.com
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/luispastranalemus)  LinkedIn: linkedin.com/in/luispastranalemus
 
 ![GIF de datos](https://user-images.githubusercontent.com/your-gif.gif) <!-- Aquí puedes cambiar la imagen a un GIF llamativo -->
