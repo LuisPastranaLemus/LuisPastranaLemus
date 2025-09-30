@@ -13,7 +13,7 @@ Today, I'm shifting gears into the world of **data science**, where I combine te
 ## 💼 What I'm working on
 - Building solid foundations in data analysis, data visualization, and machine learning
 - Applying Python, SQL, and Pandas to solve real-world problems
-- Creating personal projects that connect tech and business (yes, real estate data too 🏡📊 
+- Creating personal projects that connect tech and business
 
 ---
 
