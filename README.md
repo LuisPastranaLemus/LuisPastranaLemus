@@ -1,6 +1,6 @@
-# 🧾 Profile
+# 🧾 Profile   [🇪🇸 Español](README_ES.md)
 
-![Header](https://github.com/LuisPastranaLemus/LuisPastranaLemus/blob/main/Header.png) <!-- Aquí puedes cambiar la imagen de encabezado -->
+![Header](https://github.com/LuisPastranaLemus/LuisPastranaLemus/blob/main/Header.png) <!-- Change the header image -->
 
 ## 👋 ¡Hello!  
 
@@ -18,8 +18,9 @@ Today, I'm shifting gears into the world of **data science**, where I combine te
 
 ## 🧠 Learning right now 
 - **Advanced Python** for data workflows
-- **Data analysis** `Pandas`, `Numpy`, `Matplotlib`, `Seaborn`, `StreamLit` and beyond
-- **Data bases** tools for data `SQL`, `Oracle` – still exploring
+- **Data analysis** `pandas`, `numpy`, `matplotlib`, `seaborn`, `plotly`, `streamLit`, `dash`, `scikit-learn`, `statsmodels`, `scipy`
+  `jupyterlab`, `notebook`, `openpyxl`, `xlrd`, `requests`, `beautifulsoup4`, `lxml`, `sqlalchemy`, `oracledb`, `psycopg2-binary`, `tqdm`and beyond
+- **Data bases** tools for data `SQL`, `Oracle`, `Postgre` – still exploring
 - **OS** `Linux`, `VMware Virtualization` - Deepening my understanding
 - **Business inteligence tools** `Power Bi`, `Tableau`, exploring
 - **Version control and Best Practices** `Git` & `Github` - collaborative workflows
