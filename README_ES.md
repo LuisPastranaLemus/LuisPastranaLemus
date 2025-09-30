@@ -54,7 +54,7 @@ Hoy, me estoy adentrando en el mundo de la **ciencia de datos**, donde combino m
 
 ## ⚡ Dato Curioso
 
-Administro propiedades en renta y sí, analizo el mercado con código 😎
+Administro propiedades en renta y sí, analizo el mercado con código 😎   
 Además, creo firmemente que si algo es repetitivo, *debería* automatizarse
 
 ---
