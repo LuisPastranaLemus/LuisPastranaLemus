@@ -1,4 +1,5 @@
-# 🧾 Profile   ##### <small>[🇪🇸 Español](README_ES.md)</small>
+# 🧾 Profile   
+###### [🇪🇸 Español](README_ES.md)
 
 ![Header](https://github.com/LuisPastranaLemus/LuisPastranaLemus/blob/main/Header.png) <!-- Change the header image -->
 
