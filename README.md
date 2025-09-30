@@ -1,4 +1,4 @@
-# 🧾 Profile   <sub><span style="font-size:12px">[🇪🇸 Español](README_ES.md)</span></sub>
+# 🧾 Profile   <sub><span style="font-size:8px">[🇪🇸 Español](README_ES.md)</span></sub>
 
 ![Header](https://github.com/LuisPastranaLemus/LuisPastranaLemus/blob/main/Header.png) <!-- Change the header image -->
 
