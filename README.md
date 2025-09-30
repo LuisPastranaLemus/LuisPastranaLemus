@@ -1,7 +1,7 @@
 # 🧾 Profile   
 ###### [🇪🇸 Español](README_ES.md)
 
-![Header](https://github.com/LuisPastranaLemus/LuisPastranaLemus/blob/main/Header_eng.png) <!-- Change the header image -->
+![Header](https://github.com/LuisPastranaLemus/LuisPastranaLemus/blob/main/Header_en.png) <!-- Change the header image -->
 
 ## 👋 ¡Hello!  
 
